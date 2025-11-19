@@ -1,0 +1,8 @@
+# Backup files
+*.bak
+
+# Test output directory
+**/Output/
+
+# YXI file
+*.yxi
